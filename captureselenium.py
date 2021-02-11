@@ -8,3 +8,6 @@ driver.get("https://www.rapidvaluesolutions.com/automation-testing-vs-manual-tes
 
 #another way to capture screeenshot in selenium
 driver.get_screenshot_as_file("C:\Screenshot\homepage2.jpg")
+
+
+
